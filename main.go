@@ -31,7 +31,9 @@ func main() {
 	}
 
 	cam1 := getCameraFromXML(xmlBytes)
+	log.Printf("I'm going to timelapse %s", cam1.ID)
 	started := time.Now()
+	ends := started.AddDate(0, 0, 1)
 	minTicker := time.NewTicker(time.Minute * 5)
 	images := make([][]byte, 0)
 	for {
@@ -39,6 +41,8 @@ func main() {
 			break
 		}
 		<-minTicker.C
+
+		log.Printf("Posting in %v", time.Until(ends))
 
 		req, _ := http.NewRequest("GET", fmt.Sprintf("https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/%s.jpg?%d",
 			cam1.ID, time.Now().Unix()), nil)
