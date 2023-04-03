@@ -10,6 +10,16 @@ import (
 )
 
 func TestFFMPEGTimeLapse(t *testing.T) {
+	jpegs := makeTestJpegDataset()
+	video := createTimeLapseVideo(jpegs)
+	if len(video) == 0 {
+		t.FailNow()
+	}
+
+	os.WriteFile("test.mp4", video, 0644)
+}
+
+func makeTestJpegDataset() [][]byte {
 	// Make some jpegs
 	jpegs := make([][]byte, 0)
 
@@ -32,10 +42,6 @@ func TestFFMPEGTimeLapse(t *testing.T) {
 		jpegs = append(jpegs, buf.Bytes())
 	}
 
-	video := createTimeLapseVideo(jpegs)
-	if len(video) == 0 {
-		t.FailNow()
-	}
+	return jpegs
 
-	os.WriteFile("test.mp4", video, 0644)
 }
