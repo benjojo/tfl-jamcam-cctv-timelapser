@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syndicatedFeed>
+  <header>
+    <identifier>TfL Traffic Cameras</identifier>
+    <version>0.1</version>
+    <publishDateTime>2012-04-20T14:16:01Z</publishDateTime>
+    <author>webteamtfl.gov.uk</author>
+    <owner>Transport for London</owner>
+    <refreshRate>1</refreshRate>
+    <max_Latency>10</max_Latency>
+    <timeToError>10</timeToError>
+    <overrideMessage/>
+    <errorMessage/>
+    <feedInfo/>
+    <logo>http://www.tfl.gov.uk/tfl-global/images/roundel.gif</logo>
+  </header>
+  <cameraList updated="1334931361">
+    <rooturl>/root/relative/path/to/images/</rooturl>
+    <camera id="00001.01445" available="true">
+      <corridor/>
+      <location>A10 Grt Cambridge Rd/A110 S' bury Rd</location>
+      <currentView>A10 South</currentView>
+      <file>0000101445.jpg</file>
+      <captureTime>2012-04-20T15:15:03.046+01:00</captureTime>
+      <easting>534286.0</easting>
+      <northing>196318.0</northing>
+      <lat>51.649628</lat>
+      <lng>-0.060391203</lng>
+      <osgr>TQ343963</osgr>
+      <postCode>EN1 1RQ</postCode>
+    </camera>
+    <camera id="00001.01685" available="true">
+      <corridor/>
+      <location>Hackney Rd/Camb Heath Rd</location>
+      <currentView>Hackney Rd</currentView>
+      <file>0000101685.jpg</file>
+      <captureTime>2012-04-20T15:15:39.937+01:00</captureTime>
+      <easting>534865.0</easting>
+      <northing>183315.0</northing>
+      <lat>51.532642</lat>
+      <lng>-0.057019833</lng>
+      <osgr>TQ349833</osgr>
+      <postCode>E2 9HB</postCode>
+    </camera>
+    <camera id="00001.02500" available="true">
+      <corridor/>
+      <location>Victoria Embkmt/Temple Place</location>
+      <currentView>West</currentView>
+      <file>0000102500.jpg</file>
+      <captureTime>2012-04-20T15:15:07.212+01:00</captureTime>
+      <easting>530898.0</easting>
+      <northing>180774.0</northing>
+      <lat>51.51074</lat>
+      <lng>-0.11512167</lng>
+      <osgr>TQ309808</osgr>
+      <postCode>EC4Y 9BW</postCode>
+    </camera>
+    <camera id="00001.02425" available="true">
+      <corridor/>
+      <location>A12 Eastern Avenue/A125 North St</location>
+      <currentView>A12 S/B</currentView>
+      <file>0000102425.jpg</file>
+      <captureTime>2012-04-20T15:15:41.142+01:00</captureTime>
+      <easting>550650.0</easting>
+      <northing>189757.0</northing>
+      <lat>51.586533</lat>
+      <lng>0.17314494</lng>
+      <osgr>TQ507898</osgr>
+      <postCode>RM1 4QJ</postCode>
+    </camera>
+    <camera id="00001.01252" available="true">
+      <corridor/>
+      <location>Curtain Rd / Old Street</location>
+      <currentView>Old St S/B</currentView>
+      <file>0000101252.jpg</file>
+      <captureTime>2012-04-20T15:15:40.505+01:00</captureTime>
+      <easting>533252.0</easting>
+      <northing>182647.0</northing>
+      <lat>51.52702</lat>
+      <lng>-0.08051296</lng>
+      <osgr>TQ333826</osgr>
+      <postCode>EC1V 9LE</postCode>
+    </camera>
+    <camera id="00001.01437" available="false">
+      <corridor/>
+      <location>Grt Cambridge Rd/A406 NCR R'about</location>
+      <currentView>A10 N/B</currentView>
+      <file>0000101437.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>532568.0</easting>
+      <northing>192637.0</northing>
+      <lat>51.616955</lat>
+      <lng>-0.08660104</lng>
+      <osgr>TQ326926</osgr>
+      <postCode>N13 5DD</postCode>
+    </camera>
+    <camera id="00001.01436" available="false">
+      <corridor/>
+      <location>Bowes Rd/Brownlow Rd</location>
+      <currentView>N Circ W/B</currentView>
+      <file>0000101436.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>530188.0</easting>
+      <northing>192106.0</northing>
+      <lat>51.61274</lat>
+      <lng>-0.12115418</lng>
+      <osgr>TQ302921</osgr>
+      <postCode>N13 4SE</postCode>
+    </camera>
+    <camera id="00001.03590" available="true">
+      <corridor/>
+      <location>Kings X Rd / Wharton St</location>
+      <currentView>Kings Cross Rd - South/East</currentView>
+      <file>0000103590.jpg</file>
+      <captureTime>2012-04-20T15:15:16.720+01:00</captureTime>
+      <easting>530825.0</easting>
+      <northing>182653.0</northing>
+      <lat>51.5276</lat>
+      <lng>-0.115476</lng>
+      <osgr>TQ308827</osgr>
+      <postCode>EC1R 3AS</postCode>
+    </camera>
+    <camera id="00001.03591" available="true">
+      <corridor/>
+      <location>Kings X Rd / Swinton St</location>
+      <currentView>K X Rd N/B</currentView>
+      <file>0000103591.jpg</file>
+      <captureTime>2012-04-20T15:15:08.750+01:00</captureTime>
+      <easting>530803.0</easting>
+      <northing>182850.0</northing>
+      <lat>51.52942</lat>
+      <lng>-0.11571996</lng>
+      <osgr>TQ308829</osgr>
+      <postCode>N1 9NZ</postCode>
+    </camera>
+    <camera id="00001.02002" available="false">
+      <corridor/>
+      <location>Lower Thames St/London Bridge</location>
+      <currentView>Lower Thames St W/B</currentView>
+      <file>0000102002.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>532873.0</easting>
+      <northing>180686.0</northing>
+      <lat>51.509487</lat>
+      <lng>-0.08671175</lng>
+      <osgr>TQ329807</osgr>
+      <postCode>EC3R 6DJ</postCode>
+    </camera>
+    <camera id="00001.03721" available="true">
+      <corridor/>
+      <location>Court Rd/Sidcup Rd</location>
+      <currentView>A20 South/East</currentView>
+      <file>0000103721.jpg</file>
+      <captureTime>2012-04-20T15:15:24.839+01:00</captureTime>
+      <easting>542584.0</easting>
+      <northing>173113.0</northing>
+      <lat>51.439075</lat>
+      <lng>0.050074738</lng>
+      <osgr>TQ426731</osgr>
+      <postCode>SE9 4UD</postCode>
+    </camera>
+    <camera id="00001.03764" available="true">
+      <corridor/>
+      <location>A20 Sidcup Rd/Coyler Close</location>
+      <currentView>A20 South/East</currentView>
+      <file>0000103764.jpg</file>
+      <captureTime>2012-04-20T15:14:52.073+01:00</captureTime>
+      <easting>543500.0</easting>
+      <northing>172697.0</northing>
+      <lat>51.435104</lat>
+      <lng>0.063076235</lng>
+      <osgr>TQ435727</osgr>
+      <postCode>SE9 3TJ</postCode>
+    </camera>
+    <camera id="00001.03766" available="true">
+      <corridor/>
+      <location>A20 Sidcup Bypass/Perry St</location>
+      <currentView>East (A20 twds M20)</currentView>
+      <file>0000103766.jpg</file>
+      <captureTime>2012-04-20T15:14:43.541+01:00</captureTime>
+      <easting>545996.0</easting>
+      <northing>170899.0</northing>
+      <lat>51.418312</lat>
+      <lng>0.098218806</lng>
+      <osgr>TQ460709</osgr>
+      <postCode>BR7 6HD</postCode>
+    </camera>
+    <camera id="00001.03752" available="true">
+      <corridor/>
+      <location>Catford One Way/Rushey Green</location>
+      <currentView>A21 Catford Gyr S/B</currentView>
+      <file>0000103752.jpg</file>
+      <captureTime>2012-04-20T15:14:56.430+01:00</captureTime>
+      <easting>537688.0</easting>
+      <northing>173631.0</northing>
+      <lat>51.44494</lat>
+      <lng>-0.020119945</lng>
+      <osgr>TQ377736</osgr>
+      <postCode>SE6 4BP</postCode>
+    </camera>
+    <camera id="00001.03902" available="true">
+      <corridor/>
+      <location>Thurlow Park Road/Croxted Road</location>
+      <currentView>A205 West</currentView>
+      <file>0000103902.jpg</file>
+      <captureTime>2012-04-20T15:15:27.578+01:00</captureTime>
+      <easting>532657.0</easting>
+      <northing>173077.0</northing>
+      <lat>51.441162</lat>
+      <lng>-0.092676826</lng>
+      <osgr>TQ327731</osgr>
+      <postCode>SE21 8JJ</postCode>
+    </camera>
+    <camera id="00001.04327" available="true">
+      <corridor/>
+      <location>Millbank/Vauxhall Bridge</location>
+      <currentView>Vauxhall Bridge</currentView>
+      <file>0000104327.jpg</file>
+      <captureTime>2012-04-20T15:15:26.962+01:00</captureTime>
+      <easting>529946.0</easting>
+      <northing>178302.0</northing>
+      <lat>51.488743</lat>
+      <lng>-0.12974188</lng>
+      <osgr>TQ299783</osgr>
+      <postCode>SW1P 4RP</postCode>
+    </camera>
+    <camera id="00001.04256" available="true">
+      <corridor/>
+      <location>Vauxhall Cross</location>
+      <currentView>A202 Vauxhall Br Rd W/B</currentView>
+      <file>0000104256.jpg</file>
+      <captureTime>2012-04-20T15:15:18.407+01:00</captureTime>
+      <easting>530371.0</easting>
+      <northing>178049.0</northing>
+      <lat>51.486374</lat>
+      <lng>-0.12371739</lng>
+      <osgr>TQ304780</osgr>
+      <postCode>SE11 5AD</postCode>
+    </camera>
+    <camera id="00001.06910" available="true">
+      <corridor/>
+      <location>A4 Great West Rd/A3063 Sutton Ln</location>
+      <currentView>A4 - East</currentView>
+      <file>0000106910.jpg</file>
+      <captureTime>2012-04-20T15:14:22.414+01:00</captureTime>
+      <easting>513123.0</easting>
+      <northing>176712.0</northing>
+      <lat>51.478065</lat>
+      <lng>-0.37244242</lng>
+      <osgr>TQ131767</osgr>
+      <postCode>KT8 1TN</postCode>
+    </camera>
+    <camera id="00001.06600" available="false">
+      <corridor/>
+      <location>Cromwell Rd/Earls Court Rd</location>
+      <currentView>Earls Court Rd Sth</currentView>
+      <file>0000106600.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>525351.0</easting>
+      <northing>178843.0</northing>
+      <lat>51.494644</lat>
+      <lng>-0.1956966</lng>
+      <osgr>TQ254788</osgr>
+      <postCode>SW10 9BP</postCode>
+    </camera>
+    <camera id="00001.06641" available="false">
+      <corridor/>
+      <location>Kensington High St/Church St</location>
+      <currentView/>
+      <file>0000106641.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>525669.0</easting>
+      <northing>179666.0</northing>
+      <lat>51.50197</lat>
+      <lng>-0.19082542</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.06610" available="true">
+      <corridor/>
+      <location>A4 Great W Rd/Macbeth St</location>
+      <currentView> Gt West Rd E/B</currentView>
+      <file>0000106610.jpg</file>
+      <captureTime>2012-04-20T15:14:12.423+01:00</captureTime>
+      <easting>522781.0</easting>
+      <northing>178369.0</northing>
+      <lat>51.490948</lat>
+      <lng>-0.23286305</lng>
+      <osgr>TQ228784</osgr>
+      <postCode>SW13 9QT</postCode>
+    </camera>
+    <camera id="00001.06611" available="true">
+      <corridor/>
+      <location>A4 Great W Rd/Syon Ln</location>
+      <currentView>A4 E/B</currentView>
+      <file>0000106611.jpg</file>
+      <captureTime>2012-04-20T15:14:37.900+01:00</captureTime>
+      <easting>516325.0</easting>
+      <northing>177370.0</northing>
+      <lat>51.48333</lat>
+      <lng>-0.32613903</lng>
+      <osgr>TQ163774</osgr>
+      <postCode>HA0 1ER</postCode>
+    </camera>
+    <camera id="00001.04570" available="true">
+      <corridor/>
+      <location>A23 Purley Cross/A23 Foxley Lane</location>
+      <currentView>A23 South</currentView>
+      <file>0000104570.jpg</file>
+      <captureTime>2012-04-20T15:14:46.184+01:00</captureTime>
+      <easting>531229.0</easting>
+      <northing>161763.0</northing>
+      <lat>51.339817</lat>
+      <lng>-0.11738936</lng>
+      <osgr>TQ312618</osgr>
+      <postCode>CR8 2YA</postCode>
+    </camera>
+    <camera id="00001.06501" available="false">
+      <corridor/>
+      <location>Parliament Square</location>
+      <currentView/>
+      <file>0000106501.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>530151.0</easting>
+      <northing>179680.0</northing>
+      <lat>51.50108</lat>
+      <lng>-0.12628318</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.06502" available="true">
+      <corridor/>
+      <location>Trafalgar Square</location>
+      <currentView>Strand</currentView>
+      <file>0000106502.jpg</file>
+      <captureTime>2012-04-20T15:14:37.727+01:00</captureTime>
+      <easting>530038.0</easting>
+      <northing>180383.0</northing>
+      <lat>51.507423</lat>
+      <lng>-0.1276513</lng>
+      <osgr>TQ300804</osgr>
+      <postCode>SW1A 2DR</postCode>
+    </camera>
+    <camera id="00001.06748" available="true">
+      <corridor/>
+      <location>A30 Great Sth/W Rd/The Parkway</location>
+      <currentView>A30 N/B</currentView>
+      <file>0000106748.jpg</file>
+      <captureTime>2012-04-20T15:14:22.358+01:00</captureTime>
+      <easting>510878.0</easting>
+      <northing>176047.0</northing>
+      <lat>51.472534</lat>
+      <lng>-0.4049646</lng>
+      <osgr>TQ109760</osgr>
+      <postCode>KT8 1QX</postCode>
+    </camera>
+    <camera id="00001.06520" available="false">
+      <corridor/>
+      <location>Buck Palace Rd/Eccleston Bridge</location>
+      <currentView/>
+      <file>0000106520.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>528764.0</easting>
+      <northing>178872.0</northing>
+      <lat>51.494137</lat>
+      <lng>-0.14654908</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.06511" available="false">
+      <corridor/>
+      <location>Victoria St/Wilton Rd</location>
+      <currentView/>
+      <file>0000106511.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>529044.0</easting>
+      <northing>179123.0</northing>
+      <lat>51.49633</lat>
+      <lng>-0.14242628</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.06512" available="false">
+      <corridor/>
+      <location>Hobart Place/Grosvenor Place</location>
+      <currentView/>
+      <file>0000106512.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>528725.0</easting>
+      <northing>179323.0</northing>
+      <lat>51.4982</lat>
+      <lng>-0.14694618</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.06738" available="true">
+      <corridor/>
+      <location>A312 Hampton Rd York Way</location>
+      <currentView>A312 N/B</currentView>
+      <file>0000106738.jpg</file>
+      <captureTime>2012-04-20T15:14:44.604+01:00</captureTime>
+      <easting>512653.0</easting>
+      <northing>172181.0</northing>
+      <lat>51.437435</lat>
+      <lng>-0.38064918</lng>
+      <osgr>TQ127722</osgr>
+      <postCode>KT8 1TJ</postCode>
+    </camera>
+    <camera id="00001.04670" available="true">
+      <corridor/>
+      <location>Beverley Way/Coombe Lane Flyover</location>
+      <currentView>A3 South (twds New Malden)</currentView>
+      <file>0000104670.jpg</file>
+      <captureTime>2012-04-20T15:14:18.991+01:00</captureTime>
+      <easting>521723.0</easting>
+      <northing>170002.0</northing>
+      <lat>51.415977</lat>
+      <lng>-0.2509709</lng>
+      <osgr>TQ217700</osgr>
+      <postCode>KT2 7EQ</postCode>
+    </camera>
+    <camera id="00001.04690" available="true">
+      <corridor/>
+      <location>A3 Hook Rise/A243 Hook Rd</location>
+      <currentView>A3 South/West</currentView>
+      <file>0000104690.jpg</file>
+      <captureTime>2012-04-20T15:14:42.144+01:00</captureTime>
+      <easting>518169.0</easting>
+      <northing>165385.0</northing>
+      <lat>51.375233</lat>
+      <lng>-0.30358946</lng>
+      <osgr>TQ182654</osgr>
+      <postCode>KT6 5AT</postCode>
+    </camera>
+    <camera id="00001.04600" available="true">
+      <corridor/>
+      <location>Kng William St/Arthur St</location>
+      <currentView>London Bridge</currentView>
+      <file>0000104600.jpg</file>
+      <captureTime>2012-04-20T15:14:51.439+01:00</captureTime>
+      <easting>532839.0</easting>
+      <northing>180737.0</northing>
+      <lat>51.509953</lat>
+      <lng>-0.08718219</lng>
+      <osgr>TQ328807</osgr>
+      <postCode>EC4R 9AS</postCode>
+    </camera>
+    <camera id="00001.04622" available="true">
+      <corridor/>
+      <location>Clapham Common/Northside</location>
+      <currentView>defaultPresetName</currentView>
+      <file>0000104622.jpg</file>
+      <captureTime>2012-04-20T15:14:19.999+01:00</captureTime>
+      <easting>527918.0</easting>
+      <northing>175181.0</northing>
+      <lat>51.46116</lat>
+      <lng>-0.16006413</lng>
+      <osgr>TQ279752</osgr>
+      <postCode>SW11 5RZ</postCode>
+    </camera>
+    <camera id="00001.04646" available="true">
+      <corridor/>
+      <location>A3 Roehampton Vale/A308 Robin Hood</location>
+      <currentView>A3 N/B</currentView>
+      <file>0000104646.jpg</file>
+      <captureTime>2012-04-20T15:14:08.875+01:00</captureTime>
+      <easting>521325.0</easting>
+      <northing>172214.0</northing>
+      <lat>51.435944</lat>
+      <lng>-0.25593466</lng>
+      <osgr>TQ213722</osgr>
+      <postCode>SW15 3RR</postCode>
+    </camera>
+    <camera id="00001.04645" available="true">
+      <corridor/>
+      <location>West Hill/Sutherland Grove</location>
+      <currentView>A3 North/East</currentView>
+      <file>0000104645.jpg</file>
+      <captureTime>2012-04-20T15:14:51.745+01:00</captureTime>
+      <easting>524390.0</easting>
+      <northing>174277.0</northing>
+      <lat>51.45382</lat>
+      <lng>-0.2111385</lng>
+      <osgr>TQ244743</osgr>
+      <postCode>SW15 3SS</postCode>
+    </camera>
+    <camera id="00001.04642" available="true">
+      <corridor/>
+      <location>A3 Tibett Crn/Withycombe Rd</location>
+      <currentView>A23 North/East</currentView>
+      <file>0000104642.jpg</file>
+      <captureTime>2012-04-20T15:14:06.244+01:00</captureTime>
+      <easting>523669.0</easting>
+      <northing>173676.0</northing>
+      <lat>51.448574</lat>
+      <lng>-0.22171973</lng>
+      <osgr>TQ237737</osgr>
+      <postCode>SW19 6AN</postCode>
+    </camera>
+    <camera id="00001.04639" available="true">
+      <corridor/>
+      <location>A3 Kingston Bp/Burlington Rd</location>
+      <currentView>A3 N/B</currentView>
+      <file>0000104639.jpg</file>
+      <captureTime>2012-04-20T15:14:13.050+01:00</captureTime>
+      <easting>522283.0</easting>
+      <northing>168191.0</northing>
+      <lat>51.399582</lat>
+      <lng>-0.24354583</lng>
+      <osgr>TQ223682</osgr>
+      <postCode>KT3 4NA</postCode>
+    </camera>
+    <camera id="00001.04638" available="true">
+      <corridor/>
+      <location>A3 Kingston Rd/Roehampton Ln</location>
+      <currentView>S3 E/B</currentView>
+      <file>0000104638.jpg</file>
+      <captureTime>2012-04-20T15:14:52.093+01:00</captureTime>
+      <easting>522808.0</easting>
+      <northing>173203.0</northing>
+      <lat>51.44451</lat>
+      <lng>-0.23426756</lng>
+      <osgr>TQ228732</osgr>
+      <postCode>SW15 4AW</postCode>
+    </camera>
+    <camera id="00001.07460" available="true">
+      <corridor/>
+      <location>Albany St S of Robert St</location>
+      <currentView>Albany St S/B</currentView>
+      <file>0000107460.jpg</file>
+      <captureTime>2012-04-20T15:14:44.659+01:00</captureTime>
+      <easting>528817.0</easting>
+      <northing>182626.0</northing>
+      <lat>51.527863</lat>
+      <lng>-0.14441575</lng>
+      <osgr>TQ288826</osgr>
+      <postCode>NW1 4EG</postCode>
+    </camera>
+    <camera id="00001.07560" available="true">
+      <corridor/>
+      <location>Kentish Twn Rd/Hawley Rd</location>
+      <currentView>Kentish Town N/B</currentView>
+      <file>0000107560.jpg</file>
+      <captureTime>2012-04-20T15:15:17.662+01:00</captureTime>
+      <easting>528959.0</easting>
+      <northing>184296.0</northing>
+      <lat>51.542835</lat>
+      <lng>-0.14175878</lng>
+      <osgr>TQ290843</osgr>
+      <postCode>NW1 9PU</postCode>
+    </camera>
+    <camera id="00001.06948" available="true">
+      <corridor/>
+      <location>A4 Colnbrook/Stanwell Moor Rd</location>
+      <currentView>A4 West</currentView>
+      <file>0000106948.jpg</file>
+      <captureTime>2012-04-20T15:14:23.423+01:00</captureTime>
+      <easting>504774.0</easting>
+      <northing>177182.0</northing>
+      <lat>51.4839</lat>
+      <lng>-0.49247953</lng>
+      <osgr>TQ048772</osgr>
+      <postCode>SL3 0EB</postCode>
+    </camera>
+    <camera id="00001.07551" available="true">
+      <corridor/>
+      <location>Cambridge Circus</location>
+      <currentView>Shaftsbury Av S/B</currentView>
+      <file>0000107551.jpg</file>
+      <captureTime>2012-04-20T15:14:51.506+01:00</captureTime>
+      <easting>529921.0</easting>
+      <northing>181019.0</northing>
+      <lat>51.51317</lat>
+      <lng>-0.12910207</lng>
+      <osgr>TQ299810</osgr>
+      <postCode>SW1Y 4DR</postCode>
+    </camera>
+    <camera id="00001.06914" available="true">
+      <corridor/>
+      <location>A4 Bath Rd/Henleys R'about</location>
+      <currentView>A4 and A30 Henlys Roundabout</currentView>
+      <file>0000106914.jpg</file>
+      <captureTime>2012-04-20T15:15:02.230+01:00</captureTime>
+      <easting>511605.0</easting>
+      <northing>176344.0</northing>
+      <lat>51.47506</lat>
+      <lng>-0.394408</lng>
+      <osgr>TQ116763</osgr>
+      <postCode>KT8 1TJ</postCode>
+    </camera>
+    <camera id="00001.09731" available="false">
+      <corridor/>
+      <location>A1 Barnet Wy/Barnet Ln</location>
+      <currentView>A1 N/B</currentView>
+      <file>0000109731.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>520880.0</easting>
+      <northing>195274.0</northing>
+      <lat>51.643284</lat>
+      <lng>-0.2544219</lng>
+      <osgr>TQ209953</osgr>
+      <postCode>EN5 3JG</postCode>
+    </camera>
+    <camera id="00001.09730" available="false">
+      <corridor/>
+      <location>A1 Barnet Wy/A41 Edgware Wy</location>
+      <currentView>A1 North</currentView>
+      <file>0000109730.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>520912.0</easting>
+      <northing>192885.0</northing>
+      <lat>51.621807</lat>
+      <lng>-0.25478393</lng>
+      <osgr>TQ209929</osgr>
+      <postCode>NW7 3ET</postCode>
+    </camera>
+    <camera id="00001.09732" available="true">
+      <corridor/>
+      <location>A1 Archway Rd/Bakers Ln</location>
+      <currentView>Archway Rd S/B</currentView>
+      <file>0000109732.jpg</file>
+      <captureTime>2012-04-20T15:14:51.729+01:00</captureTime>
+      <easting>527831.0</easting>
+      <northing>188598.0</northing>
+      <lat>51.581753</lat>
+      <lng>-0.1564528</lng>
+      <osgr>TQ278886</osgr>
+      <postCode>N6 4NA</postCode>
+    </camera>
+    <camera id="00001.09742" available="true">
+      <corridor/>
+      <location>Watford Way/Great North Way</location>
+      <currentView>A1 S/B</currentView>
+      <file>0000109742.jpg</file>
+      <captureTime>2012-04-20T15:15:18.429+01:00</captureTime>
+      <easting>522329.0</easting>
+      <northing>190704.0</northing>
+      <lat>51.601902</lat>
+      <lng>-0.23508587</lng>
+      <osgr>TQ223907</osgr>
+      <postCode>NW4 4TL</postCode>
+    </camera>
+    <camera id="00001.09744" available="true">
+      <corridor/>
+      <location>A1 Watford Way/The Broadway</location>
+      <currentView>A1 N/B</currentView>
+      <file>0000109744.jpg</file>
+      <captureTime>2012-04-20T15:15:18.400+01:00</captureTime>
+      <easting>521595.0</easting>
+      <northing>192359.0</northing>
+      <lat>51.616932</lat>
+      <lng>-0.24510518</lng>
+      <osgr>TQ216924</osgr>
+      <postCode>NW7 4TD</postCode>
+    </camera>
+    <camera id="00001.08750" available="false">
+      <corridor/>
+      <location>Hyde Park Corner/Park Lane</location>
+      <currentView/>
+      <file>0000108750.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>528430.0</easting>
+      <northing>179887.0</northing>
+      <lat>51.503334</lat>
+      <lng>-0.15098847</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.07369" available="false">
+      <corridor/>
+      <location>Baker St/Marylebone Rd</location>
+      <currentView/>
+      <file>0000107369.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>527913.0</easting>
+      <northing>181977.0</northing>
+      <lat>51.522232</lat>
+      <lng>-0.15767553</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.07356" available="false">
+      <corridor/>
+      <location>Euston Rd/Grays Inn Rd</location>
+      <currentView/>
+      <file>0000107356.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>530328.0</easting>
+      <northing>182988.0</northing>
+      <lat>51.53077</lat>
+      <lng>-0.12251259</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.07316" available="true">
+      <corridor/>
+      <location>High Rd/Ealing Road</location>
+      <currentView>High Rd E/B</currentView>
+      <file>0000107316.jpg</file>
+      <captureTime>2012-04-20T15:15:12.577+01:00</captureTime>
+      <easting>518032.0</easting>
+      <northing>185044.0</northing>
+      <lat>51.55195</lat>
+      <lng>-0.29899997</lng>
+      <osgr>TQ180850</osgr>
+      <postCode>HA0 4FW</postCode>
+    </camera>
+    <camera id="00001.07317" available="true">
+      <corridor/>
+      <location>A40/Hanger Lane Tunnel</location>
+      <currentView>Western Av E/B</currentView>
+      <file>0000107317.jpg</file>
+      <captureTime>2012-04-20T15:14:51.692+01:00</captureTime>
+      <easting>518371.0</easting>
+      <northing>182634.0</northing>
+      <lat>51.530216</lat>
+      <lng>-0.29492262</lng>
+      <osgr>TQ184826</osgr>
+      <postCode>NW10 7HG</postCode>
+    </camera>
+    <camera id="00001.07380" available="true">
+      <corridor/>
+      <location>Prince Albert Rd/Parkway</location>
+      <currentView>Pk Village East</currentView>
+      <file>0000107380.jpg</file>
+      <captureTime>2012-04-20T15:14:44.827+01:00</captureTime>
+      <easting>528627.0</easting>
+      <northing>183556.0</northing>
+      <lat>51.536263</lat>
+      <lng>-0.14681378</lng>
+      <osgr>TQ286836</osgr>
+      <postCode>NW1 7PS</postCode>
+    </camera>
+    <camera id="00001.08003" available="true">
+      <corridor/>
+      <location>A4088 Forty Av/Bridge Rd</location>
+      <currentView>Forty Ln W/B</currentView>
+      <file>0000108003.jpg</file>
+      <captureTime>2012-04-20T15:14:25.029+01:00</captureTime>
+      <easting>519501.0</easting>
+      <northing>186591.0</northing>
+      <lat>51.565544</lat>
+      <lng>-0.2772975</lng>
+      <osgr>TQ195866</osgr>
+      <postCode>HA9 9EY</postCode>
+    </camera>
+    <camera id="00001.08005" available="true">
+      <corridor/>
+      <location>Grt Central Way/Drury Way</location>
+      <currentView>Gt C'tral Way </currentView>
+      <file>0000108005.jpg</file>
+      <captureTime>2012-04-20T15:14:27.142+01:00</captureTime>
+      <easting>521012.0</easting>
+      <northing>185418.0</northing>
+      <lat>51.55468</lat>
+      <lng>-0.25591195</lng>
+      <osgr>TQ210854</osgr>
+      <postCode>NW10 0TL</postCode>
+    </camera>
+    <camera id="00001.08006" available="true">
+      <corridor/>
+      <location>Neasden Ln North/A406</location>
+      <currentView>Neasden Lane North</currentView>
+      <file>0000108006.jpg</file>
+      <captureTime>2012-04-20T15:14:27.205+01:00</captureTime>
+      <easting>521145.0</easting>
+      <northing>186085.0</northing>
+      <lat>51.560646</lat>
+      <lng>-0.25376493</lng>
+      <osgr>TQ211861</osgr>
+      <postCode>NW10 0AG</postCode>
+    </camera>
+    <camera id="00001.08007" available="false">
+      <corridor/>
+      <location>Forty Lane/Blackbird Hill</location>
+      <currentView>Forty Lane W/B</currentView>
+      <file>0000108007.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>520338.0</easting>
+      <northing>186637.0</northing>
+      <lat>51.565777</lat>
+      <lng>-0.265212</lng>
+      <osgr>TQ203866</osgr>
+      <postCode>NW9 8RP</postCode>
+    </camera>
+    <camera id="00001.08850" available="false">
+      <corridor/>
+      <location>Marble Arch</location>
+      <currentView/>
+      <file>0000108850.jpg</file>
+      <unavailabilityCause>Unavailable for Operational reasons</unavailabilityCause>
+      <captureTime/>
+      <easting>527764.0</easting>
+      <northing>180977.0</northing>
+      <lat>51.51328</lat>
+      <lng>-0.16018416</lng>
+      <osgr/>
+      <postCode/>
+    </camera>
+    <camera id="00001.08100" available="true">
+      <corridor/>
+      <location>A118 Romford Rd/A406 Ncr</location>
+      <currentView>A406 Off Ramp </currentView>
+      <file>0000108100.jpg</file>
+      <captureTime>2012-04-20T15:15:12.798+01:00</captureTime>
+      <easting>543247.0</easting>
+      <northing>186184.0</northing>
+      <lat>51.55636</lat>
+      <lng>0.06490906</lng>
+      <osgr>TQ432862</osgr>
+      <postCode>IG1 2DH</postCode>
+    </camera>
+    <camera id="00001.08925" available="false">
+      <corridor/>
+      <location>Park Rd / Gloucester Pl</location>
+      <currentView>Preset 1</currentView>
+      <file>0000108925.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>527641.0</easting>
+      <northing>182362.0</northing>
+      <lat>51.525757</lat>
+      <lng>-0.16145453</lng>
+      <osgr>TQ276824</osgr>
+      <postCode>NW1 6BH</postCode>
+    </camera>
+    <camera id="00001.08926" available="false">
+      <corridor/>
+      <location>Wellington Rd/St Johns Wd Rd</location>
+      <currentView>Wellington Rd N/B</currentView>
+      <file>0000108926.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>527113.0</easting>
+      <northing>182824.0</northing>
+      <lat>51.530025</lat>
+      <lng>-0.16889481</lng>
+      <osgr>TQ271828</osgr>
+      <postCode>NW8 7JT</postCode>
+    </camera>
+    <camera id="00001.07929" available="true">
+      <corridor/>
+      <location>A41 Hendon Way/Cricklewood Lane</location>
+      <currentView>North (A41 Hendon Way twds Brent Cross)</currentView>
+      <file>0000107929.jpg</file>
+      <captureTime>2012-04-20T15:14:44.903+01:00</captureTime>
+      <easting>524631.0</easting>
+      <northing>186247.0</northing>
+      <lat>51.56134</lat>
+      <lng>-0.2034454</lng>
+      <osgr>TQ246862</osgr>
+      <postCode>NW2 2TA</postCode>
+    </camera>
+    <camera id="00001.07927" available="false">
+      <corridor/>
+      <location>A5 Cricklewood Broadway</location>
+      <currentView>Cricklewood Bway N/B</currentView>
+      <file>0000107927.jpg</file>
+      <unavailabilityCause>In use keeping London moving</unavailabilityCause>
+      <captureTime/>
+      <easting>523803.0</easting>
+      <northing>185717.0</northing>
+      <lat>51.55676</lat>
+      <lng>-0.21557038</lng>
+      <osgr>TQ238857</osgr>
+      <postCode>NW2 3HX</postCode>
+    </camera>
+    <camera id="00001.07925" available="true">
+      <corridor/>
+      <location>A5 Kilburn High Rd/Willesden Ln</location>
+      <currentView>Kilburn H Rd S/B</currentView>
+      <file>0000107925.jpg</file>
+      <captureTime>2012-04-20T15:14:56.426+01:00</captureTime>
+      <easting>525084.0</easting>
+      <northing>184078.0</northing>
+      <lat>51.541748</lat>
+      <lng>-0.19768445</lng>
+      <osgr>TQ251841</osgr>
+      <postCode>NW6 4JH</postCode>
+    </camera>
+    <camera id="00001.08303" available="true">
+      <corridor/>
+      <location>A12 Eastern Av/Whalebone Ln</location>
+      <currentView>Whalebone Ln S/B</currentView>
+      <file>0000108303.jpg</file>
+      <captureTime>2012-04-20T15:14:32.460+01:00</captureTime>
+      <easting>548447.0</easting>
+      <northing>189096.0</northing>
+      <lat>51.58118</lat>
+      <lng>0.14109103</lng>
+      <osgr>TQ484891</osgr>
+      <postCode>RM6 5NX</postCode>
+    </camera>
+    <camera id="00001.09096" available="true">
+      <corridor/>
+      <location>Pier Road/Woolwich Ferry</location>
+      <currentView>Pier Rd W/B</currentView>
+      <file>0000109096.jpg</file>
+      <captureTime>2012-04-20T15:14:32.625+01:00</captureTime>
+      <easting>543342.0</easting>
+      <northing>179793.0</northing>
+      <lat>51.49891</lat>
+      <lng>0.0636799</lng>
+      <osgr>TQ433798</osgr>
+      <postCode>E16 2JJ</postCode>
+    </camera>
+    <camera id="00001.09080" available="true">
+      <corridor/>
+      <location>Sterling Way Slip/A1010 Fore St</location>
+      <currentView>A406 E/B</currentView>
+      <file>0000109080.jpg</file>
+      <captureTime>2012-04-20T15:14:47.850+01:00</captureTime>
+      <easting>534126.0</easting>
+      <northing>192442.0</northing>
+      <lat>51.614834</lat>
+      <lng>-0.06418597</lng>
+      <osgr>TQ341924</osgr>
+      <postCode>N18 2QH</postCode>
+    </camera>
+    <camera id="00001.09055" available="true">
+      <corridor/>
+      <location>John Wilson St/New Ferry Approach</location>
+      <currentView>Woolwich Ferry South Terminal entrance</currentView>
+      <file>0000109055.jpg</file>
+      <captureTime>2012-04-20T15:15:16.702+01:00</captureTime>
+      <easting>543222.0</easting>
+      <northing>179186.0</northing>
+      <lat>51.493484</lat>
+      <lng>0.06170617</lng>
+      <osgr>TQ432792</osgr>
+      <postCode>SE18 6DS</postCode>
+    </camera>
+    <camera id="00001.09053" available="true">
+      <corridor/>
+      <location>A406/Golders Grn Rd</location>
+      <currentView>A406 N/B</currentView>
+      <file>0000109053.jpg</file>
+      <captureTime>2012-04-20T15:14:58.467+01:00</captureTime>
+      <easting>523984.0</easting>
+      <northing>188400.0</northing>
+      <lat>51.580833</lat>
+      <lng>-0.21201515</lng>
+      <osgr>TQ240884</osgr>
+      <postCode>NW11 9JE</postCode>
+    </camera>
+    <camera id="00001.09057" available="true">
+      <corridor/>
+      <location>A406 Pinkham Way/Colney Hatch Ln</location>
+      <currentView>NCR East</currentView>
+      <file>0000109057.jpg</file>
+      <captureTime>2012-04-20T15:14:30.978+01:00</captureTime>
+      <easting>528136.0</easting>
+      <northing>191327.0</northing>
+      <lat>51.60621</lat>
+      <lng>-0.1510577</lng>
+      <osgr>TQ281913</osgr>
+      <postCode>N10 1ST</postCode>
+    </camera>
+    <camera id="00001.09078" available="true">
+      <corridor/>
+      <location>Sterling Way Slip/Victoria St</location>
+      <currentView>Sterling Way Slip E/B</currentView>
+      <file>0000109078.jpg</file>
+      <captureTime>2012-04-20T15:15:02.742+01:00</captureTime>
+      <easting>533852.0</easting>
+      <northing>192403.0</northing>
+      <lat>51.614548</lat>
+      <lng>-0.06815583</lng>
+      <osgr>TQ339924</osgr>
+      <postCode>N18 2UE</postCode>
+    </camera>
+  </cameraList>
+</syndicatedFeed>
