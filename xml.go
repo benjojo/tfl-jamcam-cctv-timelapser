@@ -21,7 +21,7 @@ func getCameraFromXML(b []byte) XMLCam {
 		}
 	}
 
-	rand.Seed(time.Now().Unix())
+	rand.Seed(time.Now().UnixNano())
 
 	if len(applicableEntries) != 0 {
 		return applicableEntries[rand.Intn(len(applicableEntries)-1)]
